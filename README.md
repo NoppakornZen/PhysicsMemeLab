@@ -1,4 +1,4 @@
-# Physics Meme Lab
+# Physics Meme Lab เทส
 
 เว็บทดลองฟิสิกส์ที่ควบคุมด้วยมือ สำหรับ 67HACK Track 3
 
